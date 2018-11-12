@@ -1,4 +1,4 @@
-baseURL: "http://hugo.spf13.com/"
+baseURL: http://hugo.spf13.com/
 languageCode: en-GB
 title: Indiego Starter
 theme: hugo-code-editor-theme
